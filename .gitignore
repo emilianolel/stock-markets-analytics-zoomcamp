@@ -1,2 +1,2 @@
 .env/
-*.parquet*
+emil-workspace/notebooks/module_2/stocks_df_combined_2024_04_26.parquet.brotli
